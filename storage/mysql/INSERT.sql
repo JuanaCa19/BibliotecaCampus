@@ -24,7 +24,7 @@ INSERT INTO miembro (apellido, nombre, telefono) VALUES
 ('Martínez', 'Ana',    '3151122334'),
 ('Torres',   'Diego',  '3204455667');
 
-
+ 
 INSERT INTO libro_autor (idLibro, idAutor) VALUES
 (1, 1),
 (2, 2), 
